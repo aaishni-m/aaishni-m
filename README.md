@@ -25,4 +25,9 @@ I'm Aaishni Mulik, a Computer Engineering student and an aspiring Data Scientist
 - I once built a mini-project that predicted cat moods based on their pictures. 😺
 - Writing clean, efficient code gives me the same thrill as solving a tough puzzle.
 
+## GitHub Activity 📈
+![Aaishni's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+
 Thanks for stopping by! Feel free to explore and reach out. 🚀
