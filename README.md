@@ -16,9 +16,8 @@ I'm Aaishni Mulik, a Computer Engineering student and an aspiring Data Scientist
 
 ## Let's Connect 🌐
 - 🌍 **Portfolio:** Coming soon!
-- 📫 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- 💼 **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
+- 📫 **Email:** [aaishni123@example.com](mailto:aaishni123@gmail.com)
+- 💼 **LinkedIn:** [Aaishni Mulik](https://www.linkedin.com/in/aaishni/)
 
 ### Fun Facts 🤩
 - I debugged my first program in Python at 2 AM—night owl mode activated! 🦉
