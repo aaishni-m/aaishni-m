@@ -20,9 +20,7 @@ I'm Aaishni Mulik, a Computer Engineering student and an aspiring Data Scientist
 - 💼 **LinkedIn:** [Aaishni Mulik](https://www.linkedin.com/in/aaishni/)
 
 ### Fun Facts 🤩
-- I debugged my first program in Python at 2 AM—night owl mode activated! 🦉
 - I love experimenting with data visualization tools to tell compelling stories.
-- I once built a mini-project that predicted cat moods based on their pictures. 😺
 - Writing clean, efficient code gives me the same thrill as solving a tough puzzle.
 
 ## GitHub Activity 📈
