@@ -4,14 +4,13 @@ I'm Aaishni Mulik, a Computer Engineering student and an aspiring Data Scientist
 
 ## About Me 🌟
 - 🎓 **Education:** Recent graduate in Computer Engineering
-- 🌐 **Languages:** Java, Python, SQL, and a sprinkle of French (oui, oui!)
-- 🖥️ **Interests:** Data Science, AI/ML, Web Development, and exploring the latest tech trends
-- 🏋️ **Goals:** Building a strong routine, getting fit, and playing lawn tennis
+- 🌐 **Languages:** Java, Python
+- 🖥️ **Interests:** Data Science, AI/ML, Software Development, and exploring the latest tech trends
+- 🏋️ **Goals:** To build a meaningful, successful life through creativity, impact, and constant growth.
 
 ## What You'll Find Here 📂
 - 💡 **Projects:** My academic and personal projects showcasing practical applications of coding.
 - 📊 **Data Science:** Explorations in data analysis, visualization, and machine learning.
-- 🌐 **Web Development:** Creative websites and UI/UX experiments.
 - 📚 **Learning Journey:** Notes, scripts, and experiments as I grow my skillset.
 
 ## Let's Connect 🌐
