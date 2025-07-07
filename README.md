@@ -4,8 +4,9 @@ I'm Aaishni Mulik, a Computer Engineering student and an aspiring Data Scientist
 
 ## About Me 🌟
 - 🎓 **Education:** Recent graduate in Computer Engineering
-- 🌐 **Languages:** Java, Python
-- 🖥️ **Interests:** Data Science, AI/ML, Software Development, and exploring the latest tech trends
+- 🌐 **Languages:** Java, Python, SQL
+- 🖥️ **Certified in:** Data Science, AI/ML, Deep learning, and exploring the latest tech trends
+- ⛏️ **Tools/Libraries:** Pandas, Numpy, Django, Flask, Scikit-learn, Matplotlib, JupyterNotebook, GoogleCollab, OracleAnalyticDesktop, PowerBI
 - 🏋️ **Goals:** To build a meaningful, successful life through creativity, impact, and constant growth.
 
 ## What You'll Find Here 📂
