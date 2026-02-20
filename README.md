@@ -1,32 +1,69 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# Aaishni Mulik
 
-I'm Aaishni Mulik, a Computer Engineering student and an aspiring Data Scientist. Here, you'll find my journey through tech, featuring projects, experiments, and contributions that reflect my learning and growth.
+Computer Engineering graduate focused on Machine Learning, Data Science, and intelligent systems. I build projects that move beyond theory into real-world ML engineering — designing models, systems, and data pipelines that solve meaningful problems.
 
-## About Me 🌟
-- 🎓 **Education:** Recent graduate in Computer Engineering
-- 🌐 **Languages:** Java, Python, SQL
-- 🖥️ **Certified in:** Data Science, AI/ML, Deep learning, and exploring the latest tech trends
-- ⛏️ **Tools/Libraries:** Pandas, Numpy, Django, Flask, Scikit-learn, Matplotlib, JupyterNotebook, GoogleCollab, OracleAnalyticDesktop, PowerBI
-- 🏋️ **Goals:** To build a meaningful, successful life through creativity, impact, and constant growth.
+My work reflects a progression from foundational machine learning to system-level thinking, including recommender systems, anomaly detection, and scalable ML architectures.
 
-## What You'll Find Here 📂
-- 💡 **Projects:** My academic and personal projects showcasing practical applications of coding.
-- 📊 **Data Science:** Explorations in data analysis, visualization, and machine learning.
-- 📚 **Learning Journey:** Notes, scripts, and experiments as I grow my skillset.
+## Technical Profile
 
-## Let's Connect 🌐
-- 🌍 **Portfolio:** Coming soon!
-- 📫 **Email:** [aaishni123@example.com](mailto:aaishni123@gmail.com)
-- 💼 **LinkedIn:** [Aaishni Mulik](https://www.linkedin.com/in/aaishni/)
+# Programming Languages
+Python, Java, SQL
 
-### Fun Facts 🤩
-- I love experimenting with data visualization tools to tell compelling stories.
-- Writing clean, efficient code gives me the same thrill as solving a tough puzzle.
+# Machine Learning & Data Science
+Scikit-learn, Pandas, NumPy, Matplotlib, model evaluation, feature engineering, data preprocessing
 
-## GitHub Activity 📈
-![Aaishni's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaishni-m&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaishni-m&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaishni-m&theme=radical)
+# Frameworks & Tools
+Flask, Django, Jupyter Notebook, Google Colab
 
+# Data & Analytics Tools
+Power BI, Oracle Analytics Desktop
 
-Thanks for stopping by! Feel free to explore and reach out. 🚀
+# Core Areas of Interest
+Machine Learning
+Deep Learning
+Recommender Systems
+Search Systems
+Data Engineering
+ML System Design
+
+## What I’m Working On
+
+Building machine learning systems that are robust, scalable, and practical. Current focus areas include:
+
+Machine learning model development and evaluation
+
+Recommendation systems and graph-based learning
+
+Search systems combining semantic and lexical methods
+
+Anomaly and fraud detection systems
+
+End-to-end ML pipelines
+
+## Certifications and Learning
+
+Certified in Machine Learning, Deep Learning, and Data Science through recognized academic and technical programs. Continuously expanding knowledge through hands-on implementation and research-oriented projects.
+
+## Repository Overview
+
+This GitHub contains:
+
+Machine Learning Projects — real-world applications of ML algorithms
+Data Analysis Projects — data exploration, visualization, and insight generation
+System Design Experiments — scalable ML system implementations
+Learning and Research Work — technical experiments and implementations
+
+## Connect With Me
+
+# LinkedIn
+[Aaishni Mulik](https://www.linkedin.com/in/aaishni/)
+
+# Email
+[Aaishni Mulik](aaishni123@gmail.com)
+
+# Portfolio
+Coming soon
+
+## Philosophy
+
+I approach machine learning as both an engineering discipline and a tool for discovery — combining mathematical understanding, practical implementation, and system-level thinking to build intelligent solutions.
