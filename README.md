@@ -6,19 +6,19 @@ My work reflects a progression from foundational machine learning to system-leve
 
 ## Technical Profile
 
-# Programming Languages
+### Programming Languages
 Python, Java, SQL
 
-# Machine Learning & Data Science
+### Machine Learning & Data Science
 Scikit-learn, Pandas, NumPy, Matplotlib, model evaluation, feature engineering, data preprocessing
 
-# Frameworks & Tools
+### Frameworks & Tools
 Flask, Django, Jupyter Notebook, Google Colab
 
-# Data & Analytics Tools
+### Data & Analytics Tools
 Power BI, Oracle Analytics Desktop
 
-# Core Areas of Interest
+### Core Areas of Interest
 Machine Learning
 Deep Learning
 Recommender Systems
@@ -55,13 +55,13 @@ Learning and Research Work — technical experiments and implementations
 
 ## Connect With Me
 
-# LinkedIn
+### LinkedIn
 [Aaishni Mulik](https://www.linkedin.com/in/aaishni/)
 
-# Email
+### Email
 [Aaishni Mulik](aaishni123@gmail.com)
 
-# Portfolio
+### Portfolio
 Coming soon
 
 ## Philosophy
